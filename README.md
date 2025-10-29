@@ -50,6 +50,7 @@ const res = await fetch(
 const data = await res.json();
 ---
 🧩 Project Structure
+---
 book-finder/
 ├── public/
 │   └── index.html
@@ -150,12 +151,10 @@ Thatikonda Teja
 
 📧 Email: [thatikondateja2002@gmail.com
 ]
-💼 LinkedIn: linkedin.com/in/teja-thatikonda-0938b7253
+💼 LinkedIn: https://www.linkedin.com/in/teja-thatikonda-0938b7253/
+🐙 GitHub: (https://github.com/Thatikonda-Teja)
 
-🐙 GitHub: github.com/Thatikonda-Teja
-
-🌐 Portfolio: teja-protfolio.vercel.app
-
+🌐 Portfolio: https://teja-protfolio.vercel.app/
 📜 License
 
 This project was created as a UI Take-Home Challenge submission and is open for learning and reference purposes.
